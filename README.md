@@ -71,4 +71,25 @@ Maka tampilan di Website akan berubah seperti ini :
 
 Kemudian selanjutnya menambahkan element lain dalam sidebar, dengan contoh codingan berikut ini :
 
-![Gambar 14](img/ss15.png)
+![Gambar 14](img/ss16.png)
+
+Lanjut mengatur main content dan sidebar, tambahkan CSS float .
+
+![Gambar 15](img/ss15.png)
+
+Tambahkan deklarasi berikut ini :
+
+![Gambar 16](img/ss17.png)
+
+Maka tampilan di Website akan seperti ini :
+
+![Gambar 17](img/ss18.png)
+
+Jangan lupa deklarasikan CSS footer 
+
+![Gambar 18](img/ss19.png)
+
+Tampilan footer akan seperti ini 
+
+![Gambar 19](img/ss20.png)
+
