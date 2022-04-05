@@ -93,3 +93,32 @@ Tampilan footer akan seperti ini
 
 ![Gambar 19](img/ss20.png)
 
+### Menambahkan Element Pada Main Content
+
+Menambahkan element pada main content, contoh nya seperti ini :
+
+![Gambar 20](img/ss21.png)
+
+Tambahkan juga deklarasi pada CSS seperti ini :
+
+![Gambar 21](img/ss22.png)
+
+Maka tampilan di Website akan jadi seperti ini :
+
+![Gambar 22](img/ss23.png)
+
+### Menambahkan Content Artikel
+
+Selanjutnya membuat konten artikel. Tambahkan HTML berikut pada main content.
+
+![Gambar 23](img/ss24.png)
+
+Deklarasikan CSS nya seperti ini :
+
+![Gambar 24](img/ss25.png)
+
+Maka Tampilan di Website akan seperti ini :
+
+![Gambar 25](img/ss26.png)
+
+Terima Kasih ..
