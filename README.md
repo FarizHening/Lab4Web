@@ -41,30 +41,34 @@ Deklarasikan dengan CSS seperti gambar dibawah ini :
 
 dan lihat tampilan Website nya akan seperti ini :
 
-![Gambar 8](img/ss7.png)
+![Gambar 8](img/ss9.png)
 
 ### Membuat Navigasi
 
 Atur navigasi pada file CSS seperti ini :
 
-![Gambar 9](img/ss9.png)
+![Gambar 9](img/ss10.png)
 
 Maka tampilan di Website akan seperti ini :
 
-![Gambar 10](img/ss10.png)
+![Gambar 10](img/ss11.png)
 
 ### Membuat Hero Panel
 
 Membuat hero panel pada `<section id="hero">`. Seperti berikut ini :
 
-![Gambar 11](img/ss11.png)
+![Gambar 11](img/ss12.png)
 
 Kemudian tambahkan deklarasi pada CSS seperti ini :
 
-![Gambar 12](img/ss12.png)
+![Gambar 12](img/ss13.png)
 
 Maka tampilan di Website akan berubah seperti ini :
 
-![Gambar 13](img/ss13.png)
+![Gambar 13](img/ss14.png)
 
 ### Mengatur Layout Main dan Sidebar
+
+Kemudian selanjutnya menambahkan element lain dalam sidebar, dengan contoh codingan berikut ini :
+
+![Gambar 14](img/ss15.png)
