@@ -11,7 +11,7 @@
     <div id="container">
     </div>
     <header>
-        <h1>Layout Sederhana</h1>
+        <h1>Kontak</h1>
     </header>
     <nav>
         <a href="home.html">Home</a>
@@ -19,48 +19,18 @@
         <a href="about.html">About</a>
         <a href="kontak.html" class="active">Kontak</a>
     </nav>
-    <header>
-        <h2>Kontak</h2>
-    </header>
-    <form action="proses.php" method="post">
-        <fieldset>
-            <p>
-                <label for="nama">Nama</label>
-                <input type="text" id="nama" name="nama">
-            </p>
-            <p>
-                <label for="email">Email</label>
-                <input type="text" id="email" name="email">
-            </p>
-            <p>
-                <label for="website">Website</label>
-                <input type="text" id="website" name="website">
-            </p>
-            <p>
-                <label for="pesan">Pesan anda </label>
-                <input type="text" id="pesan" name="pesan">
-            </p>
-            <p><input type="submit" value="Sent"></p>
+    <section id="kontak">
+        <div class="login">
+            <input type="text" placeholder="Nama" class="input">
+            <input type="text" placeholder="Email" class="input">
+        </div>
+        <div class="subject">
+            <input type="text" placeholder="Subjek" class="input">
+        </div>
+        <div class="pesan">
+            <textarea cols="35" rows="10" class="area" placeholder="Pesan" class="input"></textarea>
+        </div>
+        <button type="submit"> Kirim </button>
     </section>
-    <style>
-        h2 {
-            margin-bottom: auto;
-            float: none;
-        }
-        form p > label {
-            display: inline-block;
-            width: 150px;
-        }
-        form input[type="text"], form textarea{
-            border: 1px solid #043788;
-        }
-        form input[type="submit"] {
-            border: 2px solid #043788;
-            background-color: #043788;
-            color: #ffffff;
-            font-weight: bold;
-            padding: 5px 15px;
-        }
-    </style>
 </body>
 </html>
